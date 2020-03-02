@@ -1,0 +1,4 @@
+Django
+Graphene-django
+Django-filter 
+Django-graphql-jwt
